@@ -1,0 +1,1688 @@
+[
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 27,
+        "timestamp": 64.78965759277344
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 28,
+        "timestamp": 65.16871643066406
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 29,
+        "timestamp": 65.17051696777344
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 30,
+        "timestamp": 65.17399597167969
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 31,
+        "timestamp": 65.17424011230469
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 32,
+        "timestamp": 65.17445373535156
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 33,
+        "timestamp": 65.17466735839844
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 34,
+        "timestamp": 65.17488098144531
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 35,
+        "timestamp": 65.17512512207031
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 36,
+        "timestamp": 65.17533874511719
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 37,
+        "timestamp": 65.17558288574219
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 38,
+        "timestamp": 65.18055725097656
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 39,
+        "timestamp": 65.18125915527344
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 40,
+        "timestamp": 65.18217468261719
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 41,
+        "timestamp": 65.18421936035156
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 42,
+        "timestamp": 68.84452819824219
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 43,
+        "timestamp": 69.18904113769531
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 44,
+        "timestamp": 69.19065856933594
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 45,
+        "timestamp": 69.19377136230469
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 46,
+        "timestamp": 69.19395446777344
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 47,
+        "timestamp": 69.19410705566406
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 48,
+        "timestamp": 69.19538879394531
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 49,
+        "timestamp": 69.19569396972656
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 50,
+        "timestamp": 69.19596862792969
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 51,
+        "timestamp": 69.19633483886719
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 52,
+        "timestamp": 69.19657897949219
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 53,
+        "timestamp": 69.19682312011719
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 54,
+        "timestamp": 69.20048522949219
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 55,
+        "timestamp": 69.20140075683594
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 56,
+        "timestamp": 69.20225524902344
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 57,
+        "timestamp": 74.54719543457031
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 58,
+        "timestamp": 74.88542175292969
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 59,
+        "timestamp": 74.88636779785156
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 60,
+        "timestamp": 74.88670349121094
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 61,
+        "timestamp": 74.88960266113281
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 62,
+        "timestamp": 74.88987731933594
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 63,
+        "timestamp": 74.89012145996094
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 64,
+        "timestamp": 74.89039611816406
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 65,
+        "timestamp": 74.89064025878906
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 66,
+        "timestamp": 74.89091491699219
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 67,
+        "timestamp": 74.89115905761719
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 68,
+        "timestamp": 74.89424133300781
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 69,
+        "timestamp": 74.89503479003906
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 70,
+        "timestamp": 74.89665222167969
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 71,
+        "timestamp": 74.89826965332031
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 72,
+        "timestamp": 80.40226745605469
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 73,
+        "timestamp": 80.73786926269531
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 74,
+        "timestamp": 80.73927307128906
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 75,
+        "timestamp": 80.73966979980469
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 76,
+        "timestamp": 80.74244689941406
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 77,
+        "timestamp": 80.74272155761719
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 78,
+        "timestamp": 80.74302673339844
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 79,
+        "timestamp": 80.74330139160156
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 80,
+        "timestamp": 80.74357604980469
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 81,
+        "timestamp": 80.74382019042969
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 82,
+        "timestamp": 80.74406433105469
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 83,
+        "timestamp": 80.75047302246094
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 84,
+        "timestamp": 80.75129699707031
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 85,
+        "timestamp": 80.75233459472656
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 86,
+        "timestamp": 80.75321960449219
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 87,
+        "timestamp": 86.13166809082031
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 88,
+        "timestamp": 86.47261047363281
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 89,
+        "timestamp": 86.47377014160156
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 90,
+        "timestamp": 86.47727966308594
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 91,
+        "timestamp": 86.47761535644531
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 92,
+        "timestamp": 86.47837829589844
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 93,
+        "timestamp": 86.47865295410156
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 94,
+        "timestamp": 86.47892761230469
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 95,
+        "timestamp": 86.47920227050781
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 96,
+        "timestamp": 86.47947692871094
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 97,
+        "timestamp": 86.47969055175781
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 98,
+        "timestamp": 86.48393249511719
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 99,
+        "timestamp": 86.48524475097656
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 100,
+        "timestamp": 86.48725891113281
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 101,
+        "timestamp": 86.48829650878906
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 102,
+        "timestamp": 91.85823059082031
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 103,
+        "timestamp": 92.20484924316406
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 104,
+        "timestamp": 92.20591735839844
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 105,
+        "timestamp": 92.20640563964844
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 106,
+        "timestamp": 92.20668029785156
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 107,
+        "timestamp": 92.20689392089844
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 108,
+        "timestamp": 92.20707702636719
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 109,
+        "timestamp": 92.20732116699219
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 110,
+        "timestamp": 92.20753479003906
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 111,
+        "timestamp": 92.20771789550781
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 112,
+        "timestamp": 92.20796203613281
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 113,
+        "timestamp": 92.21070861816406
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 114,
+        "timestamp": 92.21141052246094
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 115,
+        "timestamp": 92.21238708496094
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 116,
+        "timestamp": 92.21318054199219
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 117,
+        "timestamp": 97.60850524902344
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 118,
+        "timestamp": 97.96745300292969
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 119,
+        "timestamp": 97.96873474121094
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 120,
+        "timestamp": 97.97200012207031
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 121,
+        "timestamp": 97.97233581542969
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 122,
+        "timestamp": 97.97257995605469
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 123,
+        "timestamp": 97.97282409667969
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 124,
+        "timestamp": 97.97309875488281
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 125,
+        "timestamp": 97.97337341308594
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 126,
+        "timestamp": 97.97367858886719
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 127,
+        "timestamp": 97.97401428222656
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 128,
+        "timestamp": 97.97694396972656
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 129,
+        "timestamp": 97.97761535644531
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 130,
+        "timestamp": 97.97901916503906
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 131,
+        "timestamp": 97.98005676269531
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 132,
+        "timestamp": 103.35194396972656
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 133,
+        "timestamp": 103.68669128417969
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 134,
+        "timestamp": 103.68788146972656
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 135,
+        "timestamp": 103.69099426269531
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 136,
+        "timestamp": 103.69129943847656
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 137,
+        "timestamp": 103.69160461425781
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 138,
+        "timestamp": 103.69218444824219
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 139,
+        "timestamp": 103.69248962402344
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 140,
+        "timestamp": 103.69306945800781
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 141,
+        "timestamp": 103.69337463378906
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 142,
+        "timestamp": 103.69361877441406
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 143,
+        "timestamp": 103.69532775878906
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 144,
+        "timestamp": 103.69596862792969
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 145,
+        "timestamp": 103.69685363769531
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 146,
+        "timestamp": 103.69752502441406
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 147,
+        "timestamp": 109.26692199707031
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 148,
+        "timestamp": 109.59895324707031
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 149,
+        "timestamp": 109.60105895996094
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 150,
+        "timestamp": 109.60142517089844
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 151,
+        "timestamp": 109.60166931152344
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 152,
+        "timestamp": 109.60188293457031
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 153,
+        "timestamp": 109.60209655761719
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 154,
+        "timestamp": 109.60231018066406
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 155,
+        "timestamp": 109.60252380371094
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 156,
+        "timestamp": 109.60270690917969
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 157,
+        "timestamp": 109.60295104980469
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 158,
+        "timestamp": 109.60905456542969
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 159,
+        "timestamp": 109.60987854003906
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 160,
+        "timestamp": 109.61659240722656
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 161,
+        "timestamp": 109.61787414550781
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 162,
+        "timestamp": 114.99720764160156
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 163,
+        "timestamp": 115.33634948730469
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 164,
+        "timestamp": 115.33753967285156
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 165,
+        "timestamp": 115.34278869628906
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 166,
+        "timestamp": 115.34306335449219
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 167,
+        "timestamp": 115.34327697753906
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 168,
+        "timestamp": 115.34349060058594
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 169,
+        "timestamp": 115.34370422363281
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 170,
+        "timestamp": 115.34394836425781
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 171,
+        "timestamp": 115.34416198730469
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 172,
+        "timestamp": 115.34837341308594
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 173,
+        "timestamp": 115.35142517089844
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 174,
+        "timestamp": 115.35231018066406
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 175,
+        "timestamp": 115.35319519042969
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 176,
+        "timestamp": 115.35386657714844
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 177,
+        "timestamp": 120.72862243652344
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 178,
+        "timestamp": 121.08341979980469
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 179,
+        "timestamp": 121.08677673339844
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 180,
+        "timestamp": 121.08979797363281
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 181,
+        "timestamp": 121.09013366699219
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 182,
+        "timestamp": 121.09034729003906
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 183,
+        "timestamp": 121.09059143066406
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 184,
+        "timestamp": 121.09086608886719
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 185,
+        "timestamp": 121.09107971191406
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 186,
+        "timestamp": 121.09129333496094
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 187,
+        "timestamp": 121.09150695800781
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 188,
+        "timestamp": 121.09657287597656
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 189,
+        "timestamp": 121.09724426269531
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 190,
+        "timestamp": 121.09800720214844
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 191,
+        "timestamp": 121.10289001464844
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 192,
+        "timestamp": 125.85292053222656
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 193,
+        "timestamp": 126.17628479003906
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 194,
+        "timestamp": 126.17729187011719
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 195,
+        "timestamp": 126.17762756347656
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 196,
+        "timestamp": 126.17918395996094
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 197,
+        "timestamp": 126.18254089355469
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 198,
+        "timestamp": 126.18278503417969
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 199,
+        "timestamp": 126.18290710449219
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 200,
+        "timestamp": 126.18302917480469
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 201,
+        "timestamp": 126.18327331542969
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 202,
+        "timestamp": 126.18351745605469
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 203,
+        "timestamp": 126.18370056152344
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 204,
+        "timestamp": 126.18397521972656
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 205,
+        "timestamp": 126.18443298339844
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 206,
+        "timestamp": 126.18507385253906
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 207,
+        "timestamp": 133.11476135253906
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 208,
+        "timestamp": 133.79786682128906
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 209,
+        "timestamp": 133.79917907714844
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 210,
+        "timestamp": 133.8000946044922
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 211,
+        "timestamp": 133.80052185058594
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 212,
+        "timestamp": 133.80091857910156
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 213,
+        "timestamp": 133.8011932373047
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 214,
+        "timestamp": 133.80149841308594
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 215,
+        "timestamp": 133.80177307128906
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 216,
+        "timestamp": 133.80201721191406
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 217,
+        "timestamp": 133.8023223876953
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 218,
+        "timestamp": 133.81153869628906
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 219,
+        "timestamp": 133.81239318847656
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 220,
+        "timestamp": 133.8135528564453
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 221,
+        "timestamp": 133.8143768310547
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 222,
+        "timestamp": 139.3288116455078
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 223,
+        "timestamp": 139.77455139160156
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 224,
+        "timestamp": 139.7754669189453
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 225,
+        "timestamp": 139.77638244628906
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 226,
+        "timestamp": 139.7801055908203
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 227,
+        "timestamp": 139.7807159423828
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 228,
+        "timestamp": 139.78126525878906
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 229,
+        "timestamp": 139.7818145751953
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 230,
+        "timestamp": 139.78233337402344
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 231,
+        "timestamp": 139.78282165527344
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 232,
+        "timestamp": 139.78321838378906
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 233,
+        "timestamp": 139.78346252441406
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 234,
+        "timestamp": 139.7862091064453
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 235,
+        "timestamp": 139.78709411621094
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 236,
+        "timestamp": 139.7877655029297
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 237,
+        "timestamp": 144.10325622558594
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 238,
+        "timestamp": 144.4363250732422
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 239,
+        "timestamp": 144.4372100830078
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 240,
+        "timestamp": 144.4375762939453
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 241,
+        "timestamp": 144.44093322753906
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 242,
+        "timestamp": 144.4412078857422
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 243,
+        "timestamp": 144.4414520263672
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 244,
+        "timestamp": 144.4417266845703
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 245,
+        "timestamp": 144.4419708251953
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 246,
+        "timestamp": 144.4422149658203
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 247,
+        "timestamp": 144.44239807128906
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 248,
+        "timestamp": 144.4463348388672
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 249,
+        "timestamp": 144.4471893310547
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 250,
+        "timestamp": 144.44862365722656
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 251,
+        "timestamp": 144.44960021972656
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 252,
+        "timestamp": 149.83937072753906
+    },
+    {
+        "callStack": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)\n\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)\n\tat frc.robot.OI.<init>(OI.java:29)\n\tat frc.robot.Robot.robotInit(Robot.java:43)\n\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)\n\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)\n\tat frc.robot.Main.main(Main.java:27)\n",
+        "details": "Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 253,
+        "timestamp": 150.1707305908203
+    },
+    {
+        "line": "Error at frc.robot.commands.TankCompress.<init>(TankCompress.java:18): Unhandled exception: java.lang.IllegalArgumentException: Subsystem must not be null.",
+        "messageType": 2,
+        "seqNumber": 254,
+        "timestamp": 150.1719512939453
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.command.Command.requires(Command.java:249)",
+        "messageType": 2,
+        "seqNumber": 255,
+        "timestamp": 150.17234802246094
+    },
+    {
+        "line": "\tat frc.robot.commands.TankCompress.<init>(TankCompress.java:18)",
+        "messageType": 2,
+        "seqNumber": 256,
+        "timestamp": 150.17259216308594
+    },
+    {
+        "line": "\tat frc.robot.OI.<init>(OI.java:29)",
+        "messageType": 2,
+        "seqNumber": 257,
+        "timestamp": 150.1728057861328
+    },
+    {
+        "line": "\tat frc.robot.Robot.robotInit(Robot.java:43)",
+        "messageType": 2,
+        "seqNumber": 258,
+        "timestamp": 150.1730194091797
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.TimedRobot.startCompetition(TimedRobot.java:63)",
+        "messageType": 2,
+        "seqNumber": 259,
+        "timestamp": 150.17323303222656
+    },
+    {
+        "line": "\tat edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:263)",
+        "messageType": 2,
+        "seqNumber": 260,
+        "timestamp": 150.17344665527344
+    },
+    {
+        "line": "\tat frc.robot.Main.main(Main.java:27)",
+        "messageType": 2,
+        "seqNumber": 261,
+        "timestamp": 150.1736602783203
+    },
+    {
+        "line": "",
+        "messageType": 2,
+        "seqNumber": 262,
+        "timestamp": 150.1739044189453
+    },
+    {
+        "callStack": "",
+        "details": "Robots should not quit, but yours did!",
+        "errorCode": 1,
+        "flags": 0,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274)",
+        "messageType": 1,
+        "numOccur": 1,
+        "seqNumber": 263,
+        "timestamp": 150.1770782470703
+    },
+    {
+        "line": "Warning at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:274): Robots should not quit, but yours did!",
+        "messageType": 2,
+        "seqNumber": 264,
+        "timestamp": 150.17774963378906
+    },
+    {
+        "callStack": "",
+        "details": "The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "errorCode": 1,
+        "flags": 1,
+        "location": "edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276)",
+        "messageType": 0,
+        "numOccur": 1,
+        "seqNumber": 265,
+        "timestamp": 150.17857360839844
+    },
+    {
+        "line": "Error at edu.wpi.first.wpilibj.RobotBase.startRobot(RobotBase.java:276): The startCompetition() method (or methods called by it) should have handled the exception above.",
+        "messageType": 2,
+        "seqNumber": 266,
+        "timestamp": 150.17958068847656
+    },
+    {
+        "line": "********** Robot program starting **********",
+        "messageType": 2,
+        "seqNumber": 267,
+        "timestamp": 155.6238250732422
+    }
+]
